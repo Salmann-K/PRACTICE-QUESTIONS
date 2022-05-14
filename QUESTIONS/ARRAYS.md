@@ -29,6 +29,8 @@
 
 2-[Write a program to cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) 
 
+3-[Transpose Matrix](https://leetcode.com/problems/transpose-matrix/)
+
 3-[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 
 4-[Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
@@ -38,6 +40,10 @@
 6-[Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 
 7-[Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/).
+
+8-[How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
+
+9-[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
 
 
 ### 2-D Arrays
