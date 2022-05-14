@@ -1,3 +1,3 @@
 #EASY
 
-[ Write a program in C to swap elements using call by reference](https://www.w3resource.com/c-programming-exercises/pointer/index.php#editorr).
+[Swap elements using call by reference](https://www.w3resource.com/c-programming-exercises/pointer/index.php#editorr).
