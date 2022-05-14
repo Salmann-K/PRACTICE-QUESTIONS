@@ -17,7 +17,7 @@
 ### MEDIUM
 
 [Find the Kth largest and Kth smallest number in an array](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1)
-[Write a program to cyclically rotate an array by one]9https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) 
+[Write a program to cyclically rotate an array by one](https://practice.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) 
 [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/)
 [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/)
@@ -27,6 +27,6 @@
 
 ### 2-D Arrays
 
-[Flipping an Image](https://leetcode.com/problems/flipping-an-image/).
+[Flipping an Image](https://leetcode.com/problems/flipping-an-image/)
 [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
 
