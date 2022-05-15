@@ -45,6 +45,8 @@
 
 9-[Minimum Number of Moves to Seat Everyone](https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/)
 
+10-[Count Good Triplets](https://leetcode.com/problems/count-good-triplets/)
+
 
 ### 2-D Arrays
 
